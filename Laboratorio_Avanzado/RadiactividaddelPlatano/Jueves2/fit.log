@@ -1,0 +1,342 @@
+
+
+*******************************************************************************
+Thu Oct 02 11:44:36 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 227
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 1.3736039277e+05   0.00e+00  2.73e+03    3.290000e+02   1.507920e+03   4.286510e+01
+   4 4.8901959879e+04  -4.41e-01  2.73e-01    2.890997e+02   1.509177e+03   4.575443e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 48902
+rel. change during last iteration : -4.40628e-06
+
+degrees of freedom    (FIT_NDF)                        : 224
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.7754
+variance of residuals (reduced chisquare) = WSSR/ndf   : 218.312
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 289.1            +/- 2.02         (0.6988%)
+mu              = 1509.18          +/- 0.3687       (0.02443%)
+sigma           = 45.7544          +/- 0.3757       (0.8212%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.014  1.000 
+sigma          -0.583 -0.007  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:47:16 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 227
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 1.3736039277e+05   0.00e+00  2.73e+03    3.290000e+02   1.507920e+03   4.286510e+01
+   4 4.8901959879e+04  -4.41e-01  2.73e-01    2.890997e+02   1.509177e+03   4.575443e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 48902
+rel. change during last iteration : -4.40628e-06
+
+degrees of freedom    (FIT_NDF)                        : 224
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 14.7754
+variance of residuals (reduced chisquare) = WSSR/ndf   : 218.312
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 289.1            +/- 2.02         (0.6988%)
+mu              = 1509.18          +/- 0.3687       (0.02443%)
+sigma           = 45.7544          +/- 0.3757       (0.8212%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.014  1.000 
+sigma          -0.583 -0.007  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:48:27 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 328
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 2.2823189758e+05   0.00e+00  2.59e+03    2.740000e+02   2.617710e+03   6.839420e+01
+   5 7.8557398285e+04  -3.25e-03  2.59e-02    2.390732e+02   2.623355e+03   7.045632e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 78557.4
+rel. change during last iteration : -3.25058e-08
+
+degrees of freedom    (FIT_NDF)                        : 325
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 15.5472
+variance of residuals (reduced chisquare) = WSSR/ndf   : 241.715
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 239.073          +/- 1.722        (0.7205%)
+mu              = 2623.35          +/- 0.5864       (0.02235%)
+sigma           = 70.4563          +/- 0.6093       (0.8648%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.005  1.000 
+sigma          -0.588  0.018  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:48:57 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 276
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 9.5992482562e+04   0.00e+00  2.75e+03    2.250000e+02   2.974510e+03   6.210520e+01
+   5 3.6647688664e+04  -3.12e-04  2.75e+02    1.996275e+02   2.976105e+03   7.167628e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 36647.7
+rel. change during last iteration : -3.11852e-09
+
+degrees of freedom    (FIT_NDF)                        : 273
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 11.5862
+variance of residuals (reduced chisquare) = WSSR/ndf   : 134.241
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 199.628          +/- 1.296        (0.6493%)
+mu              = 2976.1           +/- 0.5397       (0.01813%)
+sigma           = 71.6763          +/- 0.5975       (0.8335%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.007  1.000 
+sigma          -0.605  0.019  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:49:28 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 109
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 3.3424041499e+05   0.00e+00  1.63e+03    2.120000e+02   7.155490e+02   2.315100e+01
+   4 2.9155638977e+04  -4.36e-02  1.63e-01    2.831439e+02   7.163291e+02   2.545253e+01
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 29155.6
+rel. change during last iteration : -4.36332e-07
+
+degrees of freedom    (FIT_NDF)                        : 106
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 16.5847
+variance of residuals (reduced chisquare) = WSSR/ndf   : 275.053
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 283.144          +/- 3.073        (1.085%)
+mu              = 716.329          +/- 0.3189       (0.04453%)
+sigma           = 25.4525          +/- 0.3377       (1.327%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.003  1.000 
+sigma          -0.594  0.016  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:49:53 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 133
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 1.0630366633e+04   0.00e+00  7.57e+02    5.200000e+01   1.784270e+03   3.213270e+01
+   5 5.7748621452e+03  -5.54e-03  7.57e-03    4.298690e+01   1.785243e+03   4.291500e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 5774.86
+rel. change during last iteration : -5.53584e-08
+
+degrees of freedom    (FIT_NDF)                        : 130
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 6.66498
+variance of residuals (reduced chisquare) = WSSR/ndf   : 44.422
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 42.9869          +/- 1.005        (2.337%)
+mu              = 1785.24          +/- 1.203        (0.06736%)
+sigma           = 42.915           +/- 1.531        (3.567%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu             -0.008  1.000 
+sigma          -0.635  0.058  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:50:16 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 82
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 2.8472417384e+06   0.00e+00  6.26e+03    1.180000e+03   4.141320e+02   2.082210e+01
+   6 5.6520309326e+05  -3.28e-02  6.26e-03    1.079318e+03   4.177618e+02   2.955919e+01
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 565203
+rel. change during last iteration : -3.27852e-07
+
+degrees of freedom    (FIT_NDF)                        : 79
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 84.5841
+variance of residuals (reduced chisquare) = WSSR/ndf   : 7154.47
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 1079.32          +/- 15.72        (1.457%)
+mu              = 417.762          +/- 0.5756       (0.1378%)
+sigma           = 29.5592          +/- 0.7675       (2.596%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu             -0.123  1.000 
+sigma          -0.635  0.318  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:50:44 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 108
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 5.0068265292e+06   0.00e+00  1.68e+04    3.098000e+03   5.028470e+02   2.331560e+01
+   5 2.5820730842e+06  -3.18e-02  1.68e-01    2.918333e+03   5.007335e+02   2.432108e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 2.58207e+06
+rel. change during last iteration : -3.18416e-07
+
+degrees of freedom    (FIT_NDF)                        : 105
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 156.816
+variance of residuals (reduced chisquare) = WSSR/ndf   : 24591.2
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 2918.33          +/- 29.64        (1.016%)
+mu              = 500.733          +/- 0.285        (0.05691%)
+sigma           = 24.3211          +/- 0.2986       (1.228%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu              0.025  1.000 
+sigma          -0.591 -0.037  1.000 
+
+
+*******************************************************************************
+Thu Oct 02 11:51:51 2025
+
+
+FIT:    data read from ARCHIVO_DATOS using 1:2 every ::MIN_CANAL::MAX_CANAL
+        format = x:z
+        #datapoints = 73
+        residuals are weighted equally (unit weight)
+
+function used for fitting: gauss(x)
+	gauss(x) = A * exp(-0.5 * ((x - mu) / sigma)**2)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   A             mu            sigma        
+   0 2.1462173079e+06   0.00e+00  6.47e+03    1.180000e+03   4.141320e+02   2.082210e+01
+   5 3.9552601083e+05  -7.05e-01  6.47e-02    1.102857e+03   4.183015e+02   2.742330e+01
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 395526
+rel. change during last iteration : -7.05184e-06
+
+degrees of freedom    (FIT_NDF)                        : 70
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 75.169
+variance of residuals (reduced chisquare) = WSSR/ndf   : 5650.37
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+A               = 1102.86          +/- 14.74        (1.337%)
+mu              = 418.301          +/- 0.4685       (0.112%)
+sigma           = 27.4233          +/- 0.6696       (2.442%)
+
+correlation matrix of the fit parameters:
+                A      mu     sigma  
+A               1.000 
+mu             -0.068  1.000 
+sigma          -0.653  0.176  1.000 
